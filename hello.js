@@ -1,2 +1,1 @@
-var msg = 'Hello Node.js';
-console.log(msg);
+console.log('Hello Node.js')
